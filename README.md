@@ -1,5 +1,7 @@
 # Segregation-of-Plastic
 
+[![DOI](https://zenodo.org/badge/191520137.svg)](https://zenodo.org/badge/latestdoi/191520137)
+
 https://vinayakumarr.github.io/DSP/
 
 https://ieeexplore.ieee.org/abstract/document/8728405/
